@@ -8,16 +8,16 @@
   Python
   ```
 
-### 100 Days of Code:
+## 100 Days of Code:
 
-## Day 1
+### Day 1
 
-  # Interactive coding exercise
+  ## Interactive coding exercise
    * Printing
    * Debugging practice
    * Input function
    * Variables
 
-  # Project
+  ## Project
    * Band Name Generator
 -----
