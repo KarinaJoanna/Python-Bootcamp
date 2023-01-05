@@ -10,7 +10,7 @@
 
 ## 100 Days of Code:
 
-### Day 1
+## Day 1
 
   ## Interactive coding exercise
    * Printing
