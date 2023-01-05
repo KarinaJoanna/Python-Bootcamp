@@ -12,12 +12,12 @@
 
 ## Day 1
 
-  ## Interactive coding exercise
+  ### Interactive coding exercise
    * Printing
    * Debugging practice
    * Input function
    * Variables
 
-  ## Project
+  ### Project
    * Band Name Generator
 -----
