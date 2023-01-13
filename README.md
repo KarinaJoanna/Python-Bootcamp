@@ -34,7 +34,7 @@
 ## Day 3
 
   ### Examples
-   * Roller Coaster 
+   * Ramdom Module - import my_module
 
   ### Interactive coding exercise
    * Odd or Even? Introducing the Modulo
@@ -45,3 +45,23 @@
 
   ### Project
    * Treasure Island
+
+## Day 4
+
+  ### Examples
+   * 
+   * 
+   * 
+
+  ### Interactive coding exercise
+   * Heads or Tails
+   * Bank Roulette
+   * Treasure Map
+
+  ### Project
+   * Rock Paper Scissors
+
+
+
+
+
