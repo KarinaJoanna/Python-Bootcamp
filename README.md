@@ -34,7 +34,9 @@
 ## Day 3
 
   ### Examples
-   * Ramdom Module - import my_module
+   * Roller Coaster 
+   * Multiple If statements
+   * Logical Operator
 
   ### Interactive coding exercise
    * Odd or Even? Introducing the Modulo
@@ -49,9 +51,7 @@
 ## Day 4
 
   ### Examples
-   * 
-   * 
-   * 
+   * Ramdom Module - import my_module
 
   ### Interactive coding exercise
    * Heads or Tails
