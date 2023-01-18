@@ -68,7 +68,7 @@
    * For loops and the range() function
 
   ### Interactive coding exercise
-   * Averga Height
+   * Average Height
    * High Score
    * Adding Even Numbers
    * The FizzBuzz Job Interview Question
