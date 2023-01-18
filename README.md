@@ -61,7 +61,20 @@
   ### Project
    * Rock Paper Scissors
 
+## Day 5
 
+  ### Examples
+   * Using the for loop with lists
+   * For loops and the range() function
+
+  ### Interactive coding exercise
+   * Averga Height
+   * High Score
+   * Adding Even Numbers
+   * The FizzBuzz Job Interview Question
+
+  ### Project
+   * Create a Password Generator
 
 
 
