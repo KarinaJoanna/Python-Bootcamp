@@ -77,7 +77,7 @@
    * Create a Password Generator
 
 
-## Day 5
+## Day 6
 
   ### Examples
    * Defining and Calling Functions
