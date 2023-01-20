@@ -77,4 +77,19 @@
    * Create a Password Generator
 
 
+## Day 5
+
+  ### Examples
+   * Defining and Calling Functions
+   * Indentation
+   * While Loops
+   * Jumping over Hurdles with Variable Heights
+
+  ### Challenges
+   * The Hurdles Loop
+   * Hurdles using While Loops
+
+
+  ### Project
+   * Escaping the Maze
 
