@@ -25,6 +25,7 @@ for number in range(1, nr_numbers + 1):
     password += random.choice(numbers)
 
 # We print the password with order, first the letters, then the symbols and finally the numbers
+# This is the easy way
 # print(password)
 
 # We use the shuffle function from the random module
