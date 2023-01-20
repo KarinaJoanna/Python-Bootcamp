@@ -89,7 +89,6 @@
    * The Hurdles Loop
    * Hurdles using While Loops
 
-
   ### Project
    * Escaping the Maze
 
