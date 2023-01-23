@@ -1,6 +1,6 @@
 # Escaping the Maze - Reeborg's World
 
-def turn_right():
+""" def turn_right():
     turn_left()
     turn_left()
     turn_left()
@@ -14,3 +14,4 @@ while not at_goal():
     else:
         turn_left()
         
+ """
