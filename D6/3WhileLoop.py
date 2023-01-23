@@ -1,4 +1,4 @@
-# Using while loop for the Hurdles challenge in Reeborg's World
+# Using while loop for the Hurdles 2 challenge in Reeborg's World
 
 #def turn_right():
 #    turn_left()
