@@ -1,6 +1,6 @@
 # Hurdle 4 jumping over a wall with variable height
 
-def turn_right():
+""" def turn_right():
     turn_left()
     turn_left()
     turn_left()
@@ -21,3 +21,4 @@ while not at_goal():
         jump()
     else:
         move()
+ """

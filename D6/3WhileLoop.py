@@ -1,6 +1,6 @@
 # Hurdles 2
 
-def turn_right():
+""" def turn_right():
     turn_left()
     turn_left()
     turn_left()
@@ -27,3 +27,4 @@ while num_hurdles > 0:
 while not at_goal():
     jump()
 
+ """

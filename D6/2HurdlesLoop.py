@@ -1,6 +1,6 @@
 # Hurdles 1  
 
-def turn_right():
+""" def turn_right():
     turn_left()
     turn_left()
     turn_left()
@@ -16,4 +16,4 @@ def jump():
      turn_left()
     
 for step in range(6):
-    jump()
+    jump() """
