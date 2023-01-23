@@ -87,6 +87,7 @@
 
   ### Challenges
    * The Hurdles Loop
+   * Hurdles using functions
    * Hurdles using While Loops
 
   ### Project
