@@ -96,6 +96,7 @@ while not end_of_game:
         print(f'You lose a life. You have left {lives} lives.')
         
     if lives == 0:
+        end_of_game = True
         print("You lose.")
 
     #Join all the elements in the list and turn it into a String.
@@ -110,3 +111,5 @@ while not end_of_game:
     while lives > 0:
         print(stages[lives])
         break
+    
+    #print(stages[lives])
