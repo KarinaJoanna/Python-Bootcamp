@@ -1,4 +1,4 @@
-# Picking random words and cheking answers
+# Picking random words and checking answers
 
 word_list = ["aardvark", "baboon", "camel"]
 
