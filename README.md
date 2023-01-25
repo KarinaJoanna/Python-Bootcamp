@@ -93,3 +93,14 @@
   ### Project
    * Escaping the Maze
 
+## Day 7
+
+  ### Challenges
+   * Picking a Random Words and Checking Answers
+   * Replacing Blanks with Guesses
+   * Checking if the Player has Won
+   * Keeping the Track of the Player's Life
+   * Improving the User Experience - Add ASCII Art and Improve the UI
+
+  ### Project
+   * Hangman
