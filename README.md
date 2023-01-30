@@ -104,3 +104,29 @@
 
   ### Project
    * Hangman
+
+## Day 8
+
+  ### Examples
+   * Function with Inputs
+   * Positional vs. Keyword Arguments
+
+  ### Interactive coding exercise
+   * Paint Area Calculator
+   * Prime Number Checker
+
+  ### Project
+   *  Caesar Cipher (Part 1, 2, 3, 4)
+
+## Day 9
+
+  ### Examples
+   * The Python Dictonary
+   * Nesting Lists and Dictionaries
+
+  ### Interactive coding exercise
+   * Grading Program
+   * Dictonary in List
+
+  ### Project
+   * Secret Auction Program
